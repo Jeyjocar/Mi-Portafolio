@@ -56,7 +56,6 @@ idna==3.6
 importlib-metadata==7.0.1
 ipykernel==6.28.0
 ipytablewidgets==0.3.1
-ipython==8.20.0
 ipywidgets==8.1.1
 isoduration==20.11.0
 jedi==0.19.1
@@ -143,7 +142,7 @@ pyperclip==1.8.2
 PyRect==0.2.0
 PyScreeze==0.1.30
 PySocks==1.7.1
-python-dateutil==2.8.2
+python-dateutil==3.10.2
 python-json-logger==2.0.7
 pytweening==1.0.7
 pytz==2023.3.post1
